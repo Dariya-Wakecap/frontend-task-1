@@ -1,5 +1,5 @@
 <p align="center">
- <img width="300" src="images/logo.png"/>
+ <img width="200" src="images/logo.png"/>
  <h1 align="center">Senior Frontend Engineer</h1>
 </p>
 
@@ -53,7 +53,6 @@ This task is to evaluate your ability to deal with data and managing it.
 - You can use ContextAPI for managing the state and data logic.
 - You can use `useReducer` hook for actions and state updates.
 - You can fake-fetching data with `Promises` and `setTimeout` to show loaders for beautiful UI.
-- More strong type more error-free solution.
-- More test coverage more error-free solution.
-
-Finally, we wish you all of Good Luck.
+- More strong types more bug-free solution.
+- More test coverage more bug-free solution.
+<p align="center">Finally, we wish you all of Good Luck.</p>
