@@ -34,9 +34,7 @@ Behind the scenes, we have access to the updates history, which means we can swi
 
 > We are seeking to hire someone who is skilled using React, TypeScript and can do Unit Testing.
 
-You are not required or stuck to specific technical tools, you can use whatever you want to achieve the task functionalities.
-
-This task is to evaluate your ability to deal with data and managing it.
+> This task is to evaluate your ability to deal with data and managing it.
 
 ### Technical Bonuses
 
